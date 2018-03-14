@@ -1,0 +1,16 @@
+name: Octbr
+description: 'simple bootswatch theme'
+author: 'sr tushar'
+homepage: 'http://tushar.com'
+code: ''
+form:
+  fields:
+    site_name:
+      label: Site name
+      comment: The global website name
+      default: Octbr
+
+    site_description:
+      label: Site description
+      comment: The global website description
+      default: sdfsdfsdfsdfsdfsdfsdfsdfsdfsdf
